@@ -1,6 +1,6 @@
 package modelo;
 
-public class Principal {
+public class Personal {
     
     
     
