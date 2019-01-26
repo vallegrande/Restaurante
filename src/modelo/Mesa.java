@@ -4,6 +4,16 @@ public class Mesa {
     private int codMesa;
     private String numMesa;
     private String capMesa;
+    private String estMesa; //estado de la mesa (disponible o no)
+
+    public String getEstMesa() {
+        return estMesa;
+    }
+
+    public void setEstMesa(String estMesa) {
+        this.estMesa = estMesa;
+    }
+    
 
     public int getCodMesa() {
         return codMesa;
